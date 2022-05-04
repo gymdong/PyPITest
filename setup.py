@@ -8,7 +8,7 @@ setuptools.setup(
   author='DongHyun',
   author_email='gymdong@naver.com',
   url='https://github.com/gymdong/PyPITest',
-  download_url='',
+  download_url='https://github.com/gymdong/PyPITest/archive/refs/tags/v0.0.1.zip',
   install_requires=['pytest'],
   long_description='oss-dev test output upload test',
   long_description_content_type='text/markdown',
