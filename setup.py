@@ -13,7 +13,7 @@ setuptools.setup(
   long_description='oss-dev test output upload test',
   long_description_content_type='text/markdown',
   classifiers=[
-    "Programming Langauge :: Python :: 3",
+    "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
   ],
 )
